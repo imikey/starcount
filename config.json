@@ -1,0 +1,12 @@
+{
+  "hotelRatesRequest":{
+    "url":"http://www.starwoodhotels.com/whotels/rates/room.html?propertyId=1234&rtnId=94b94d666872d3a2e7274fff9d47422&arrivalDate=2013-11-07&departureDate=2013-11-08&iataNumber=&rp=RC%3ADFRLM%2C%2C%2C&numberOfRooms=1&numberOfAdults=1&numberOfChildren=0",
+    "header_AcceptEncoding":"deflate",
+    "header_Host":"www.starwoodhotels.com",
+    "header_AcceptLanguage":"en-US,en;q=0.8",
+    "header_UserAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36",
+    "header_Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "header_Referer":"http://www.starwoodhotels.com/whotels/property/overview/index.html?propertyID=1153",
+    "header_Connection": "keep-alive"
+  }
+}
